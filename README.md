@@ -8,7 +8,7 @@
 ---
 ![linkedin](https://github.com/PeppeOliveri/PeppeOliveri/assets/126467143/bd3702f3-4730-4e5c-b281-10acf0c37d2d)[1]
 ---
-<a>https://www.linkedin.com/in/giuseppe-oliveri-a8762b278/</a>
+[1]: https://www.linkedin.com/in/giuseppe-oliveri-a8762b278/
 
 <!--
 **PeppeOliveri/PeppeOliveri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
