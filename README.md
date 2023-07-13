@@ -4,7 +4,7 @@
 
 ### - 🔭 Attualmente mi sto concentrando sullo sviluppo di single page application con React. 
 ---
-### - 📫 Vuoi saperne di più su di me?? Vieni a trovarmi su LinkedIn [![317750_linkedin_icon](https://github.com/PeppeOliveri/PeppeOliveri/assets/126467143/4b0a783a-b132-447c-8b77-9554b0f1eae2)][1]
+### - 📫 Vuoi saperne di più su di me?? Vieni a trovarmi su LinkedIn     [![317750_linkedin_icon](https://github.com/PeppeOliveri/PeppeOliveri/assets/126467143/4b0a783a-b132-447c-8b77-9554b0f1eae2)][1]
 ---
 [1]: https://www.linkedin.com/in/giuseppe-oliveri-a8762b278/
 <!--
