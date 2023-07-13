@@ -1,12 +1,12 @@
-### Ciao! 👋
+## Ciao! 👋
 
-# Sono Giuseppe, Front-end Developer Junior appassionato di informatica e videogiochi, un anno fa circa ho iniziato a studiare da autodidatta qualcosa di sviluppo web, poi ho deciso di studiare con il corso full-stack di Develhope, dove ho imparato moltissime cose, ma non voglio fermarmi qui voglio continuare e migliorare.
+### Sono Giuseppe, Front-end Developer Junior appassionato di informatica e videogiochi, un anno fa circa ho iniziato a studiare da autodidatta qualcosa di sviluppo web, poi ho deciso di studiare con il corso full-stack di Develhope, dove ho imparato moltissime cose, ma non voglio fermarmi qui voglio continuare e migliorare.
 
-# - 🔭 Attualmente mi sto concentrando sullo sviluppo di single page application con React. 
+### - 🔭 Attualmente mi sto concentrando sullo sviluppo di single page application con React. 
 
-# 📫 Vuoi saperne di più su di me?? Vieni a trovarmi su LinkedIn
+### 📫 Vuoi saperne di più su di me?? Vieni a trovarmi su LinkedIn
 ---
-![linkedin](https://github.com/PeppeOliveri/PeppeOliveri/assets/126467143/bd3702f3-4730-4e5c-b281-10acf0c37d2d)
+![linkedin](https://github.com/PeppeOliveri/PeppeOliveri/assets/126467143/bd3702f3-4730-4e5c-b281-10acf0c37d2d)[1]
 ---
 <a>https://www.linkedin.com/in/giuseppe-oliveri-a8762b278/</a>
 
