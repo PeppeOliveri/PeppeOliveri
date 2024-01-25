@@ -2,7 +2,7 @@
 
 ### Sono Giuseppe, Front-end Developer Junior appassionato di informatica e videogiochi, un anno fa circa ho iniziato a studiare da autodidatta qualcosa di sviluppo web, poi ho deciso di studiare con il corso full-stack di Develhope, dove ho imparato moltissime cose, ma non voglio fermarmi qui voglio continuare e migliorare.
 
-### - 🔭 Attualmente mi sto concentrando sullo sviluppo di single page application con React. 
+### - 🔭 Attualmente sto frequentando un corso approfondito su React fatto da Formatemp
 ---
 ### - 📫 Vuoi saperne di più su di me?? Vieni a trovarmi su LinkedIn     [![317750_linkedin_icon](https://github.com/PeppeOliveri/PeppeOliveri/assets/126467143/4b0a783a-b132-447c-8b77-9554b0f1eae2)][1]
 ---
